@@ -14,7 +14,7 @@ export default function Page() {
     const phrases = [
       "No",
       "Are you sure?",
-      "What if I asked really nicely?",
+      "What if I asked reallyh nicely?",
       "Pretty please",
       "With a chocolate rice cake on top",
       "What about a cookie!",
